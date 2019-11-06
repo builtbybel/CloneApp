@@ -26,7 +26,7 @@
 
 <h4 align="center">&copy Copyright 2019 <a href="https://www.mirinsoft.com" target="_blank">Mirinsoft</a></h1>
 
-# CloneApp is a free portable and simple backup tool which could save you a lot of time when migrating your software or reinstalling Windows.
+## CloneApp is a free portable and simple backup tool which could save you a lot of time when migrating your software or reinstalling Windows.
 
 There's nothing like a fresh install of Windows to clear your mind, but it comes at a cost: you have to set everything up again, just the way you like it.
 
