@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/Mirinsoft/CloneApp" target="_blank">
-<img align="center" alt="Cleanmgr+" src="https://github.com/Mirinsoft/CleanmgrPlus/raw/master/cleanmgr%2B.png" width="150" height="150" />
+<img align="center" alt="CloneApp" src="https://github.com/Mirinsoft/CloneApp/raw/master/cloneapp.png" width="150" height="150" />
 </a>
 </p>
 
@@ -11,7 +11,7 @@
 <a href="https://github.com/Mirinsoft/CloneApp/releases/latest" target="_blank">
  <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/cloneapp.svg" />
 </a>
-<a href="https://github.com/Mirinsoft/CleanmgrPlus/releases" target="_blank">
+<a href="https://github.com/Mirinsoft/CloneApp/releases" target="_blank">
  <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/Mirinsoft/CloneApp/total.svg?style=flat-square" />
 </a>
 <a href="https://www.getclone.app/donate/cloneapp" target="_blank">
