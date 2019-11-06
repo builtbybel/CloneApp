@@ -8,8 +8,8 @@
 
 <p align="center">
  
-<a href="https://github.com/Mirinsoft/CleanmgrPlus/releases/latest" target="_blank">
- <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/cleanmgrplus.svg" />
+<a href="https://github.com/Mirinsoft/CloneApp/releases/latest" target="_blank">
+ <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/cloneapp.svg" />
 </a>
 <a href="https://github.com/Mirinsoft/CloneApp/releases" target="_blank">
  <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/Mirinsoft/CloneApp/total.svg?style=flat-square" />
