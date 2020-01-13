@@ -46,16 +46,16 @@ If you don’t want to do a full backup and restore, CloneApp backs up settings 
 ## Download 
 
 #### CloneApp
-https://www.getclone.app/CloneApp
+https://www.mirinsoft.com/CloneApp
 
 #### Community Plug-ins
-https://www.getclone.app/download/category/3-plug-ins
+https://www.mirinsoft.com/download/category/3-plug-ins
 
 #### Localizations
-https://www.getclone.app/download/category/10-cloneapp-localizations
+https://www.mirinsoft.com/download/category/10-cloneapp-localizations
 
 ## Suggesting features / providing feedback
-Please use the [official community](https://www.getclone.app/community) or the [discussion thread on Wilder's Security Forums](https://www.wilderssecurity.com/threads/cloneapp-backup-windows-program-settings.416236/)
+Please use the [official community](https://www.mirinsoft.com/community) or the [discussion thread on Wilder's Security Forums](https://www.wilderssecurity.com/threads/cloneapp-backup-windows-program-settings.416236/)
 
 You can also reach out to me on [Twitter](https://twitter.com/CloneApp)
 
