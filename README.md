@@ -56,7 +56,7 @@ Please use the [official community](https://www.mirinsoft.com/community) or the 
 
 You can also reach out to me on [Twitter](https://twitter.com/CloneApp)
 
-
+<br>
 Built with ❤︎ by © [Mirinsoft](https://www.mirinsoft.com "Good apps are as little apps as possible").
 
 <p align="center"><a href="http://www.imirin.com/donate"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a></p>
