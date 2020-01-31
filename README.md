@@ -14,7 +14,7 @@
 <a href="https://github.com/Mirinsoft/CloneApp/releases" target="_blank">
  <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/Mirinsoft/CloneApp/total.svg?style=flat-square" />
 </a>
-<a href="https://www.getclone.app/donate/cloneapp" target="_blank">
+<a href="https://www.mirinsoft.com/donate/cloneapp" target="_blank">
  <img alt="Donate" src="https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square" />
 </a>
 <a href="https://twitter.com/cloneapp" target="_blank">
@@ -39,14 +39,14 @@ A clean slate is nice, but it also means you're going to spend the rest of the w
 If you don’t want to do a full backup and restore, CloneApp backs up settings for the most popular Windows programs so you can restore them later.
 
 
-#### CloneApp supports about 250 different Windows programs. The complete list can be viewed [here](https://www.getclone.app/apps)
+#### CloneApp supports about 250 different Windows programs. The complete list can be viewed [here](https://www.mirinsoft.com/apps)
 
 #### CloneApp is closed source, but you can collaborate and contribute i.e., custom Plug-ins, localizations, report issues or maintain a documentation.
 
 ## Download 
 
 #### CloneApp
-https://www.mirinsoft.com/CloneApp
+https://www.mirinsoft.com/ca
 
 #### Community Plug-ins
 https://www.mirinsoft.com/download/category/3-plug-ins
