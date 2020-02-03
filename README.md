@@ -41,9 +41,9 @@ If you don’t want to do a full backup and restore, CloneApp backs up settings 
 #### CloneApp is closed source, but you can collaborate and contribute i.e., custom Plug-ins, localizations, report issues or maintain a documentation.
 
 ## Download 
+* https://www.mirinsoft.com
 
-#### CloneApp
-https://www.mirinsoft.com
+## Other Resources
 
 #### [Community Plug-ins](https://github.com/mirinsoft/CloneApp/tree/master/plugins)
 
