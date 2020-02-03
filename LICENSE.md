@@ -1,17 +1,19 @@
-End User License Agreement
-Legal
-This is the global End User License Agreement, which covers the use of all software products downloaded via this website.
+DEBOTNET - END USER LICENSE AGREEMENT
+============================================================
+PLEASE READ THIS END USER LICENSE AGREEMENT ("EULA") BEFORE USING THIS SOFTWARE. 
+BY USING THIS SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE. 
+IF YOU DO NOT AGREE TO THESE TERMS, PROMPTLY CEASE ALL FURTHER INSTALLATION OR USE OF THE SOFTWARE.
 
-In this License, "the software" means the software product "CloneApp"
+In this License, "the software" means the software product "CloneApp".
 
-Software License
+# Software License
 
 The software is being licensed to you free of charge for your private personal use.
 
 You may use these products also for commercial purposes. 
 In last case, a Donation of any amount is required.
 
-Distribution
+# Distribution
 
 Copies of the Software may be distributed in accordance to the following terms:
 
@@ -19,7 +21,7 @@ The files are distributed in their entirety.
 
 No alteration is made to the files. You may NOT repackage, translate, adapt, vary, modify, alter, create derivative works based upon the software in whole or in part.
 
-Liability
+# Liability
 
 The software is distributed "AS IS". 
 No warranty of any kind is expressed or implied. You use at your own risk. 
