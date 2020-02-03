@@ -4,34 +4,34 @@ Open Hamburger/Main menu > Import > Theme file or just copy it to the Data folde
 
 
 CCleaner
-![alt text](https://github.com/mirinsoft/CloneApp/blob/master/templates/ccleanerui.png)
-
-Darkness
-![alt text](https://github.com/mirinsoft/CloneApp/blob/master/templates/darkness.png)
+![alt text](https://github.com/mirinsoft/CloneApp/blob/master/themes/ccleanerui.png)
 
 CCleaner
-![alt text](https://github.com/mirinsoft/CloneApp/blob/master/templates/ccleanerui.png)
+![alt text](https://github.com/mirinsoft/CloneApp/blob/master/themes/ccleanerui.png)
 
 CCleaner
-![alt text](https://github.com/mirinsoft/CloneApp/blob/master/templates/ccleanerui.png)
+![alt text](https://github.com/mirinsoft/CloneApp/blob/master/themes/ccleanerui.png)
 
 CCleaner
-![alt text](https://github.com/mirinsoft/CloneApp/blob/master/templates/ccleanerui.png)
+![alt text](https://github.com/mirinsoft/CloneApp/blob/master/themes/ccleanerui.png)
 
 CCleaner
-![alt text](https://github.com/mirinsoft/CloneApp/blob/master/templates/ccleanerui.png)
+![alt text](https://github.com/mirinsoft/CloneApp/blob/master/themes/ccleanerui.png)
 
 CCleaner
-![alt text](https://github.com/mirinsoft/CloneApp/blob/master/templates/ccleanerui.png)
+![alt text](https://github.com/mirinsoft/CloneApp/blob/master/themes/ccleanerui.png)
 
 CCleaner
-![alt text](https://github.com/mirinsoft/CloneApp/blob/master/templates/ccleanerui.png)
+![alt text](https://github.com/mirinsoft/CloneApp/blob/master/themes/ccleanerui.png)
 
 CCleaner
-![alt text](https://github.com/mirinsoft/CloneApp/blob/master/templates/ccleanerui.png)
+![alt text](https://github.com/mirinsoft/CloneApp/blob/master/themes/ccleanerui.png)
 
 CCleaner
-![alt text](https://github.com/mirinsoft/CloneApp/blob/master/templates/ccleanerui.png)
+![alt text](https://github.com/mirinsoft/CloneApp/blob/master/themes/ccleanerui.png)
 
 CCleaner
-![alt text](https://github.com/mirinsoft/CloneApp/blob/master/templates/ccleanerui.png)
+![alt text](https://github.com/mirinsoft/CloneApp/blob/master/themes/ccleanerui.png)
+
+CCleaner
+![alt text](https://github.com/mirinsoft/CloneApp/blob/master/themes/ccleanerui.png)
