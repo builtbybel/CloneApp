@@ -45,6 +45,8 @@ If you don’t want to do a full backup and restore, CloneApp backs up settings 
 
 ## Other Resources
 
+#### [Official Documentation](https://github.com/mirinsoft/CloneApp/blob/master/docs/manual.pdf)
+
 #### [Community Plug-ins](https://github.com/mirinsoft/CloneApp/tree/master/plugins)
 
 #### [Themes](https://github.com/mirinsoft/CloneApp/blob/master/themes/theme.md)
