@@ -4,7 +4,7 @@ PLEASE READ THIS END USER LICENSE AGREEMENT ("EULA") BEFORE USING THIS SOFTWARE.
 BY USING THIS SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE. 
 IF YOU DO NOT AGREE TO THESE TERMS, PROMPTLY CEASE ALL FURTHER INSTALLATION OR USE OF THE SOFTWARE.
 
-In this License, "the software" means the software product "CloneApp".
+In this License, "the software" means the software product "CloneApp", "CloneApp UA", "Cleanmgr+","Roboget".
 
 # Software License
 
