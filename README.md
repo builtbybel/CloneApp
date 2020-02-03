@@ -45,7 +45,7 @@ If you don’t want to do a full backup and restore, CloneApp backs up settings 
 
 ## Other Resources
 
-#### [CloneApp UA, Version to Backup UWP apps](https://github.com/mirinsoft/CloneApp-UA)
+#### [CloneApp UA (Version to Backup UWP apps)](https://github.com/mirinsoft/CloneApp-UA)
 
 #### [Official Documentation](https://github.com/mirinsoft/CloneApp/blob/master/docs/manual.pdf)
 
