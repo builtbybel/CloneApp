@@ -10,4 +10,4 @@ Extract and copy it to the Installation/Root folder of CloneApp.
 * CloneApp will now download and install the external Tool/Plug-in to the CloneApp Plug-ins folder.
 
 # Download
-[Download v0.7](https://github.com/mirinsoft/CloneApp/blob/master/addons/add-on-s.zip)
+[Add-on S v0.7](https://github.com/mirinsoft/CloneApp/blob/master/addons/add-on-s.zip)
