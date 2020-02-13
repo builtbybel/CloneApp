@@ -20,7 +20,7 @@ Open Hamburger/Main menu > Import > Theme file or just copy it to the Data folde
 ### Nera > [Download](https://github.com/mirinsoft/CloneApp/blob/master/themes/nera.zip)
 ![alt text](https://github.com/mirinsoft/CloneApp/blob/master/themes/nera.png)
 
-### New Hprizon > [Download](https://github.com/mirinsoft/CloneApp/blob/master/themes/new_horizon.zip)
+### New Horizon > [Download](https://github.com/mirinsoft/CloneApp/blob/master/themes/new_horizon.zip)
 ![alt text](https://github.com/mirinsoft/CloneApp/blob/master/themes/new_horizon.png)
 
 ### Titan > [Download](https://github.com/mirinsoft/CloneApp/blob/master/themes/titan.zip)
