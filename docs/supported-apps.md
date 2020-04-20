@@ -92,6 +92,7 @@ Maxthon Cloud Browser
 MediaMonkey
 Microsoft Edge Favorites
 Microsoft Edge
+Microsoft Edge Chromium
 Microsoft Internet Explorer Cookies
 Microsoft Internet Explorer Favorites
 Microsoft Internet Explorer Send To
