@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/Mirinsoft/CloneApp" target="_blank">
-<img align="center" alt="CloneApp" src="https://github.com/Mirinsoft/CloneApp/raw/master/cloneapp.png" width="150" height="150" />
+<img align="center" alt="CloneApp" src="https://github.com/Mirinsoft/CloneApp/raw/master/cloneapp.png"/>
 </a>
 </p>
 
