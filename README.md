@@ -36,7 +36,7 @@ A clean slate is nice, but it also means you're going to spend the rest of the w
 If you don’t want to do a full backup and restore, CloneApp backs up settings for the most popular Windows programs so you can restore them later.
 
 
-#### CloneApp supports about 250 different Windows programs. The complete list can be viewed [here](https://www.mirinsoft.com/apps)
+#### CloneApp supports about 250 different Windows programs. The complete list can be viewed [here](https://github.com/mirinsoft/CloneApp/blob/master/docs/supported-apps.md)
 
 #### CloneApp is closed source, but you can collaborate and contribute i.e., custom Plug-ins, localizations, report issues or maintain a documentation.
 
