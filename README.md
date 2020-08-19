@@ -9,7 +9,7 @@
 <p align="center">
  
 <a href="https://github.com/builtbybel/CloneApp/releases/latest" target="_blank">
- <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/cloneapp.svg" />
+ <img alt="Latest GitHub release" src="https://img.shields.io/github/release/builtbybel/cloneapp.svg" />
 </a>
 <a href="https://github.com/builtbybel/CloneApp/releases" target="_blank">
  <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/builtbybel/CloneApp/total.svg?style=flat-square" />
@@ -33,12 +33,12 @@ A clean slate is nice, but it also means you're going to spend the rest of the w
 If you don’t want to do a full backup and restore, CloneApp backs up settings for the most popular Windows programs so you can restore them later.
 
 
-#### CloneApp supports about 250 different Windows programs. The complete list can be viewed [here](https://github.com/mirinsoft/CloneApp/blob/master/docs/supported-apps.md)
+#### CloneApp supports about 250 different Windows programs. The complete list can be viewed [here](https://github.com/builtbybel/CloneApp/blob/master/docs/supported-apps.md)
 
 #### CloneApp is closed source, but you can collaborate and contribute i.e., custom Plug-ins, localizations, report issues or maintain a documentation.
 
 ## Download 
-* https://www.mirinsoft.com
+* https://www.builtbybel.com
 
 ## Other Resources
 
@@ -48,7 +48,7 @@ If you don’t want to do a full backup and restore, CloneApp backs up settings 
 
 #### [Community Plug-ins](https://github.com/builtbybel/CloneApp/tree/master/plugins)
 
-#### [Themes](https://github.com/mirinsoft/CloneApp/blob/master/themes/theme.md)
+#### [Themes](https://github.com/builtbybel/CloneApp/blob/master/themes/theme.md)
 
 #### [Localizations](https://github.com/builtbybel/CloneApp/blob/master/localizations/localization.md)
 
@@ -61,4 +61,4 @@ You can also reach out to me on [Twitter](https://twitter.com/builtbybel)
 
 <br>
 
-© [builtbybel](https://www.builtbybel.com "Good apps are as little apps as possible") with ❤︎.
+with ❤︎ © [builtbybel](https://www.builtbybel.com "Good apps are as little apps as possible").
