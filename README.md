@@ -1,24 +1,21 @@
 <h1 align="center"> CloneApp </h1>
 
 <p align="center">
-<a href="https://github.com/Mirinsoft/CloneApp" target="_blank">
-<img align="center" alt="CloneApp" src="https://github.com/Mirinsoft/CloneApp/raw/master/cloneapp.png"/>
+<a href="https://github.com/builtbybel/CloneApp" target="_blank">
+<img align="center" alt="CloneApp" src="https://github.com/builtbybel/CloneApp/raw/master/cloneapp.png"/>
 </a>
 </p>
 
 <p align="center">
  
-<a href="https://github.com/Mirinsoft/CloneApp/releases/latest" target="_blank">
+<a href="https://github.com/builtbybel/CloneApp/releases/latest" target="_blank">
  <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/cloneapp.svg" />
 </a>
-<a href="https://github.com/Mirinsoft/CloneApp/releases" target="_blank">
- <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/Mirinsoft/CloneApp/total.svg?style=flat-square" />
+<a href="https://github.com/builtbybel/CloneApp/releases" target="_blank">
+ <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/builtbybel/CloneApp/total.svg?style=flat-square" />
 </a>
-<a href="https://www.mirinsoft.com/donate/cloneapp" target="_blank">
- <img alt="Donate" src="https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square" />
-</a>
-<a href="https://twitter.com/cloneapp" target="_blank">
- <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/cloneapp.svg?label=Follow" />
+<a href="https://twitter.com/builtbybel" target="_blank">
+ <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/builtbybel.svg?label=Follow" />
 </a>
 
 </p>
@@ -45,23 +42,23 @@ If you don’t want to do a full backup and restore, CloneApp backs up settings 
 
 ## Other Resources
 
-#### [CloneApp UA (Version to Backup UWP apps)](https://github.com/mirinsoft/CloneApp-UA)
+#### [CloneApp UA (Version to Backup UWP apps)](https://github.com/builtbybel/CloneApp-UA)
 
-#### [Official Documentation](https://github.com/mirinsoft/CloneApp/blob/master/docs/manual.pdf)
+#### [Official Documentation](https://github.com/builtbybel/CloneApp/blob/master/docs/manual.pdf)
 
-#### [Community Plug-ins](https://github.com/mirinsoft/CloneApp/tree/master/plugins)
+#### [Community Plug-ins](https://github.com/builtbybel/CloneApp/tree/master/plugins)
 
 #### [Themes](https://github.com/mirinsoft/CloneApp/blob/master/themes/theme.md)
 
-#### [Localizations](https://github.com/mirinsoft/CloneApp/blob/master/localizations/localization.md)
+#### [Localizations](https://github.com/builtbybel/CloneApp/blob/master/localizations/localization.md)
 
-#### [Add-ons](https://github.com/mirinsoft/CloneApp/blob/master/addons/addons-s.md)
+#### [Add-ons](https://github.com/builtbybel/CloneApp/blob/master/addons/addons-s.md)
 
 ## Suggesting features / providing feedback
-Please use the [official community](https://www.mirinsoft.com/feedback) or the [discussion thread on Wilder's Security Forums](https://www.wilderssecurity.com/threads/cloneapp-backup-windows-program-settings.416236/)
+Please use the [official community](https://www.builtbybel.com/feedback) or the [discussion thread on Wilder's Security Forums](https://www.wilderssecurity.com/threads/cloneapp-backup-windows-program-settings.416236/)
 
-You can also reach out to me on [Twitter](https://twitter.com/Mirinsoft)
+You can also reach out to me on [Twitter](https://twitter.com/builtbybel)
 
 <br>
 
-Built with ❤︎ by © [Mirinsoft](https://www.mirinsoft.com "Good apps are as little apps as possible").
+Built with ❤︎ by © [builtbybel](https://www.builtbybel.com "Good apps are as little apps as possible").
