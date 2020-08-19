@@ -61,4 +61,4 @@ You can also reach out to me on [Twitter](https://twitter.com/builtbybel)
 
 <br>
 
-Built with ❤︎ by © [builtbybel](https://www.builtbybel.com "Good apps are as little apps as possible").
+© [builtbybel](https://www.builtbybel.com "Good apps are as little apps as possible") with ❤︎.
